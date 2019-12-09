@@ -63,7 +63,8 @@ De los pedidos se almacena la fecha de petición, la fecha de servicio y el impo
 [Ejercicio en xml](https://github.com/PalomaR88/Diagrama_base_datos/blob/master/Boletin_2/15.xml)
 ![img15](https://github.com/PalomaR88/Diagrama_base_datos/blob/master/images/15.png)
 
-![]()
-![]()
-![]()
-
+### [Pizzería](https://github.com/PalomaR88/Diagrama_base_datos/tree/master/Pizzeria)
+[Enunciado](https://github.com/PalomaR88/Diagrama_base_datos/blob/master/Pizzeria/Problema%20Pizzeria%20a%20Domicilio.odt)
+[Ejercicio en xml](https://github.com/PalomaR88/Diagrama_base_datos/blob/master/Pizzeria/PIZZERIA%20DEFINITIVA.xml)
+![pizz1](https://github.com/PalomaR88/Diagrama_base_datos/blob/master/images/pizz1.png)
+![pizz2](https://github.com/PalomaR88/Diagrama_base_datos/blob/master/images/pizz2.png)
